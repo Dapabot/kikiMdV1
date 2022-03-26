@@ -18,15 +18,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283808840711','62 83184072215','6283184072215']
-global.premium = ['6283808840711']
+global.owner = ['48729759866','48729759866','48699532476']
+global.premium = ['48729759866']
 global.packname = '2022'
-global.author = 'KIKI ID'
+global.author = 'YANZ MD'
 global.sessionName = 'kiki'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
